@@ -27,7 +27,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Focus & Activity
 
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisvalladares-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Learning-blueviolet?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Main%20Focus-Data%20Analysis-success?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Code-Clean%20&%20Scalable-orange?style=for-the-badge" alt="Code"/>
+</p>
