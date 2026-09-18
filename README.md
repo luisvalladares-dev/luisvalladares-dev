@@ -1,6 +1,6 @@
 # 🚀 Hello, I'm Luis Valladares! 
 
-### 💻 Developer & Data Analysis Enthusiast
+### 💻 Developer & Data Analyst
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luisvalladares-dev&style=flat-square&color=blueviolet)
 
