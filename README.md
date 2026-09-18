@@ -1,13 +1,12 @@
+# 🚀 Hello, I'm Luis Valladares! 
 
-# 🚀 ¡Hola, soy Luis Valladares! 
+### 💻 Developer & Data Analysis Enthusiast
 
-### 💻 Desarrollador & Entusiasta del Análisis de Datos
-
-<img src="https://komarev.com/ghpvc/?username=luisvalladares-dev&style=flat-square&color=blueviolet" alt="Visitas al perfil"/>
+![Profile Views](https://komarev.com/ghpvc/?username=luisvalladares-dev&style=flat-square&color=blueviolet)
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -20,16 +19,15 @@
 
 ---
 
-### 📊 Sobre mí
-- 🔭 Actualmente me estoy enfocando en **Análisis de Datos** y desarrollo de software.
-- 💡 Me apasiona entender cómo los datos y la tecnología se unen para resolver problemas del mundo real.
-- 🌱 Siempre aprendiendo y explorando nuevas herramientas del ecosistema tecnológico.
+### 📊 About Me
+
+- 🔭 I am currently focusing on **Data Analysis** and software development.
+- 💡 I'm passionate about understanding how data and technology come together to solve real-world problems.
+- 🌱 Always learning and exploring new tools within the tech ecosystem.
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=luisvalladares-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
+![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisvalladares-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
