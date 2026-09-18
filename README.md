@@ -6,6 +6,18 @@
 
 ---
 
+I am a software development student passionate about software engineering and data analysis. I love exploring how data and technology come together to solve real-world problems, always learning and building things within the tech ecosystem.
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/luis-valladares-878704427" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:luis.valladares.ec@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p>
@@ -21,22 +33,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-
----
-
-### 🌐 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/luis-valladares-878704427" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:luis.valladares.ec@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
----
-
-### 📊 About Me
-
-- 🔭 I am currently focusing on **Data Analysis** and software development.
-- 💡 I'm passionate about understanding how data and technology come together to solve real-world problems.
-- 🌱 Always learning and exploring new tools within the tech ecosystem.
 
 ---
 
