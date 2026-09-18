@@ -1,4 +1,3 @@
-<halign="center">
 
 # 🚀 ¡Hola, soy Luis Valladares! 
 
@@ -34,4 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=luisvalladares-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 
-</halign>
