@@ -19,6 +19,16 @@
 
 ---
 
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/luis-valladares-878704427" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
 ### 📊 About Me
 
 - 🔭 I am currently focusing on **Data Analysis** and software development.
